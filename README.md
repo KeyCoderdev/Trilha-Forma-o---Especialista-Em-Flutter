@@ -1,4 +1,3 @@
-```markdown
 # Trilha de Aprendizado de Flutter
 
 ## Módulo 1 - Fundamentos
@@ -71,4 +70,3 @@ Criar um aplicativo de mensagens em tempo real que utilize um serviço de backen
 ### Quizzes
 
 10 perguntas de múltipla escolha ou verdadeiro/falso divididas entre 2 quizzes (1 distribuído entre as aulas e 1 ao final do módulo).
-```
